@@ -1,7 +1,7 @@
-![This is an image](section\ 1/Revising\ the\ Select\ Query\ I/20220424_111717.jpg)
-![This is an image](section 1\Revising the Select Query II\20220424_112707.jpg)
-![This is an image](section 1\Select All\20220424_112828.jpg)
-![This is an image](section 1\Select By ID\20220424_112938.jpg)
+![This is an image](img/20220424_111717.jpg)
+![This is an image](img/20220424_112707.jpg)
+![This is an image](img/20220424_112828.jpg)
+![This is an image](img/20220424_112938.jpg)
 
 ![This is an image](section 2\Employee Names\20220424_114724.jpg)
 ![This is an image](section 2\Employee Salaries\20220424_115124.jpg)
