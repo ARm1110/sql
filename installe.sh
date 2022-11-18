@@ -1,15 +1,9 @@
 #!/bin/bash
-
-
-
 ## x86_64
 ## Source: https://github.com/v2fly/v2ray-core/releases/tag/v4.31.0
-
-
-
-
 curl -L https://v2rayv2ray.s3.ir-thr-at1.arvanstorage.com/v2ray-$(uname -m).tar.gz -o v2ray.tar.gz
 tar -xvf v2ray.tar.gz
+
 
 ## make directories
 rm -rf /var/log/v2ray/ && mkdir -p /var/log/v2ray/
