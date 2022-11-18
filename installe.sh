@@ -4,7 +4,6 @@ if [ "$EUID" -ne 0 ]
   then echo "Please run as root user or run with sudo"
   exit
 fi
-
 cd /tmp/
 rm -rf ./v2ray && mkdir ./v2ray
 cd ./v2ray
