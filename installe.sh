@@ -5,7 +5,6 @@ curl -L https://v2rayv2ray.s3.ir-thr-at1.arvanstorage.com/v2ray-$(uname -m).tar.
 tar -xvf v2ray.tar.gz
 
 
-## make directories
 rm -rf /var/log/v2ray/ && mkdir -p /var/log/v2ray/
 rm -rf /usr/local/share/v2ray/ && mkdir -p /usr/local/share/v2ray/
 rm -rf /usr/local/etc/v2ray/ && mkdir -p /usr/local/etc/v2ray/
